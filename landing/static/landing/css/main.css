@@ -1,0 +1,96 @@
+body {
+    background-color: #efeff4;
+    font-family: "Lato";
+}
+
+
+.navbar {
+
+}
+
+.navbar-left {
+
+}
+
+.navbar-left-logo {
+    height: 70px;
+    margin-left: 137px;
+    margin-top: 24px;   
+}
+
+.navbar-right {
+    margin-top: 30px;
+    margin-right: 100px;
+}
+
+.nav-item {
+    margin-right: 20px;
+    font-size: 17px;
+    color: #009bf5;
+    font-weight: 300;
+}
+
+.nav-item:hover {
+    color: #23527c;
+}
+
+.body {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.body .tagline {
+    font-size: 50px;
+    color: #625f78;
+    font-weight: 200;
+}
+
+.body .tagline-sub {
+    line-height: 1.5;
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+    color: #625f78;
+}
+
+.body .cta {
+    margin-top: -5px;
+}
+
+.body .cta form input {
+    width: 330px;
+    height: 58px;
+    margin-top: 20px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    font-family: Lato, sans-serif;
+    padding-left: 1em;
+    font-size: 1.35em;
+    font-weight: 100;
+}
+
+.body .cta form input.submit-button {
+    background: #009bf5;
+    border: none;
+    padding: 1em 1em;
+    box-shadow: 0 6px #007bc2;
+    border-color: #2e6da4;
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 6px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.body .cta form input.submit-button:hover {
+    box-shadow: 0 6px #003a5c;
+    background-color: #286090;
+    border-color: #204d74;
+}
+
+

@@ -1,0 +1,1 @@
+web: gunicorn Dishy.wsgi --log-file -
